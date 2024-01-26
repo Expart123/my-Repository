@@ -8,3 +8,5 @@ I have completed my internship
 I have completed my work at 3:00pm
 
 I adeed last one at today
+My first day at my shop
+New line is added in feature branch
